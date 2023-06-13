@@ -43,5 +43,4 @@ void loop() {
 
 
 delay(10);
-// delay in between reads for stability
 }
