@@ -37,7 +37,7 @@ void loop() {
     Serial.flush();
   }
 
-  else myConnection.println("d2");
+  else myConnection.println("0");
   Serial.flush();
 }
 
